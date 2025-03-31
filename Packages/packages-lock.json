@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.seanba.super-tiled2unity": {
-      "version": "file:C:/Users/amata/Downloads/com.seanba.super-tiled2unity",
+      "version": "file:C:/My Shit/Unity Projects/Packages/com.seanba.super-tiled2unity",
       "depth": 0,
       "source": "local",
       "dependencies": {

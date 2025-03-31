@@ -7,7 +7,7 @@ ScriptedImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  script: {fileID: 11500000, guid: ed901b756edf25847b1e51a860bbbbb8, type: 3}
   importerVersion: 20
   pixelsPerUnit: 16
   edgesPerEllipse: 32

@@ -4,10 +4,11 @@
         "width": 2
     },
     "activeFile": "Maps/Map.tmx",
+    "automapping.whileDrawing": false,
     "expandedProjectPaths": [
+        "Tilesets",
         ".",
-        "Maps",
-        "Tilesets"
+        "Maps"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -24,6 +25,25 @@
         },
         "C:/My Shit/Unity Projects/Tower-of-Sins/Assets/SuperTiled2Unity/Imports/TemplateTOSTiled.tsx": {
             "scaleInDock": 1
+        },
+        "C:/My Shit/Unity Projects/Tower-of-Sins/Assets/SuperTiled2Unity/Imports/Tiled1_0.tmx": {
+            "scale": 0.40952482876712326,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1168.4273245178488,
+                "y": 400.46411958396493
+            }
+        },
+        "C:/Users/amata/Documents/GitHub/Tower-of-Sins/Assets/SuperTiled2Unity/Imports/TemplateTOSTiled.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/amata/Documents/GitHub/Tower-of-Sins/Assets/SuperTiled2Unity/Imports/Tiled1_1.tmx": {
+            "scale": 0.39860416666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2151.256990539905,
+                "y": 795.2751790100872
+            }
         },
         "MainMap.tmx": {
             "scale": 1.05925,
@@ -42,11 +62,11 @@
             }
         },
         "Maps/Map.tmx": {
-            "scale": 0.33,
-            "selectedLayer": 0,
+            "scale": 2,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": -243.93939393939377,
-                "y": -1336.3636363636363
+                "x": 533.75,
+                "y": -191.5
             }
         },
         "Maps/Map.tmx#roguelikeSheet_transparent": {
@@ -56,11 +76,11 @@
             "scaleInDock": 1
         },
         "Maps/outsideRules.tmx": {
-            "scale": 4,
-            "selectedLayer": 0,
+            "scale": 3,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 7.875,
-                "y": 43.25
+                "x": -90.83333333333334,
+                "y": -95.33333333333331
             }
         },
         "Tilesets/colored_packed.tsx": {
@@ -68,8 +88,8 @@
             "scaleInEditor": 1
         },
         "Tilesets/roguelikeSheet_transparent.tsx": {
-            "scaleInDock": 1,
-            "scaleInEditor": 1
+            "scaleInDock": 1.5,
+            "scaleInEditor": 5.5
         },
         "colored_packed.tsx": {
             "scaleInDock": 1,
@@ -78,6 +98,9 @@
     },
     "last.externalTilesetPath": "C:/My Shit/Unity Projects/QuestDialogue/Assets/Tiled/Tilesets",
     "last.imagePath": "C:/My Shit/Unity Projects/QuestDialogue/Assets/Kenney Art",
+    "loadedWorlds": [
+        "C:/Users/amata/Documents/GitHub/Tower-of-Sins/Assets/SuperTiled2Unity/Imports/World1.world"
+    ],
     "map.fixedSize": false,
     "map.height": 50,
     "map.lastUsedFormat": "tmx",
@@ -85,17 +108,18 @@
     "map.tileWidth": 16,
     "map.width": 50,
     "openFiles": [
+        "Maps/Map.tmx",
         "Maps/outsideRules.tmx",
-        "C:/My Shit/Unity Projects/Tower-of-Sins/Assets/SuperTiled2Unity/Imports/RulesTiled1.tmx",
-        "Tilesets/roguelikeSheet_transparent.tsx",
-        "Maps/Map.tmx"
+        "Tilesets/roguelikeSheet_transparent.tsx"
     ],
     "project": "TestMap.tiled-project",
     "recentFiles": [
-        "Maps/outsideRules.tmx",
-        "C:/My Shit/Unity Projects/Tower-of-Sins/Assets/SuperTiled2Unity/Imports/RulesTiled1.tmx",
         "Tilesets/roguelikeSheet_transparent.tsx",
+        "Maps/outsideRules.tmx",
         "Maps/Map.tmx",
+        "C:/Users/amata/Documents/GitHub/Tower-of-Sins/Assets/SuperTiled2Unity/Imports/Tiled1_1.tmx",
+        "C:/My Shit/Unity Projects/Tower-of-Sins/Assets/SuperTiled2Unity/Imports/RulesTiled1.tmx",
+        "C:/My Shit/Unity Projects/Tower-of-Sins/Assets/SuperTiled2Unity/Imports/Tiled1_0.tmx",
         "Maps/MainMap.tmx",
         "Tilesets/colored_packed.tsx",
         "colored_packed.tsx"
