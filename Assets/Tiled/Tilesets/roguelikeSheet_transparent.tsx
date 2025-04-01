@@ -69,18 +69,20 @@
    </object>
   </objectgroup>
  </tile>
- <tile id="526" probability="0.1"/>
- <tile id="527" probability="0.1"/>
- <tile id="528" probability="0.1"/>
- <tile id="529" probability="0.1"/>
- <tile id="530" probability="0.1"/>
- <tile id="531" probability="0.1"/>
+ <tile id="526" probability="0.15"/>
+ <tile id="527" probability="0.15"/>
+ <tile id="528" probability="0.15"/>
+ <tile id="529" probability="0.15"/>
+ <tile id="530" probability="0.15"/>
+ <tile id="531" probability="0.15"/>
  <tile id="536" probability="0.1"/>
+ <tile id="597" probability="0.35"/>
  <tile id="640">
   <objectgroup draworder="index" id="2">
    <object id="2" x="0" y="0" width="16" height="16"/>
   </objectgroup>
  </tile>
+ <tile id="654" probability="0.15"/>
  <tile id="855">
   <objectgroup draworder="index" id="2">
    <object id="1" x="0" y="0" width="16" height="16"/>
@@ -200,6 +202,12 @@
    <object id="2" x="0" y="7" width="16" height="9"/>
   </objectgroup>
  </tile>
+ <tile id="1365" probability="0.05"/>
+ <tile id="1366" probability="0.05"/>
+ <tile id="1367" probability="0.05"/>
+ <tile id="1422" probability="0.05"/>
+ <tile id="1423" probability="0.05"/>
+ <tile id="1424" probability="0.05"/>
  <wangsets>
   <wangset name="Pond" type="corner" tile="60">
    <wangcolor name="" color="#ff0000" tile="60" probability="1"/>

@@ -4,7 +4,7 @@
         "width": 2
     },
     "activeFile": "Maps/Map.tmx",
-    "automapping.whileDrawing": true,
+    "automapping.whileDrawing": false,
     "expandedProjectPaths": [
         ".",
         "Tilesets",
@@ -65,8 +65,8 @@
             "scale": 2,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 314.75,
-                "y": 351.5
+                "x": 416.25,
+                "y": 133.5
             }
         },
         "Maps/Map.tmx#roguelikeSheet_transparent": {
@@ -76,11 +76,11 @@
             "scaleInDock": 1
         },
         "Maps/houseRules.tmx": {
-            "scale": 4,
+            "scale": 2,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 108.125,
-                "y": 76.25
+                "x": 112.75,
+                "y": 90.5
             }
         },
         "Maps/outsideRules.tmx": {
@@ -117,13 +117,15 @@
     "map.width": 50,
     "openFiles": [
         "Maps/Map.tmx",
+        "Tilesets/roguelikeSheet_transparent.tsx",
         "Maps/outsideRules.tmx",
-        "Tilesets/roguelikeSheet_transparent.tsx"
+        "Maps/houseRules.tmx"
     ],
     "project": "TestMap.tiled-project",
     "recentFiles": [
-        "Tilesets/roguelikeSheet_transparent.tsx",
+        "Maps/houseRules.tmx",
         "Maps/outsideRules.tmx",
+        "Tilesets/roguelikeSheet_transparent.tsx",
         "Maps/Map.tmx",
         "C:/Users/amata/Documents/GitHub/Tower-of-Sins/Assets/SuperTiled2Unity/Imports/Tiled1_1.tmx",
         "C:/My Shit/Unity Projects/Tower-of-Sins/Assets/SuperTiled2Unity/Imports/RulesTiled1.tmx",
