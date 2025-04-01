@@ -1,6 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.10" tiledversion="1.11.2" name="roguelikeSheet_transparent" tilewidth="16" tileheight="16" spacing="1" tilecount="1767" columns="57">
  <image source="../../Kenney Art/roguelikeSheet_transparent.png" width="968" height="526"/>
+ <tile id="2">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="16" y="0">
+    <polygon points="0,0 0,16 -16,16 0,0"/>
+   </object>
+  </objectgroup>
+ </tile>
+ <tile id="3">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="4">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0">
+    <polygon points="0,0 0,16 16,16 0,0"/>
+   </object>
+  </objectgroup>
+ </tile>
+ <tile id="57">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="58">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="59">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="61">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="114">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="115">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="116">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0">
+    <polygon points="0,0 16,0 16,16 0,0"/>
+   </object>
+  </objectgroup>
+ </tile>
+ <tile id="117">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="118">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="16">
+    <polygon points="0,0 0,-16 16,-16 0,0"/>
+   </object>
+  </objectgroup>
+ </tile>
+ <tile id="526" probability="0.1"/>
+ <tile id="527" probability="0.1"/>
+ <tile id="528" probability="0.1"/>
+ <tile id="529" probability="0.1"/>
+ <tile id="530" probability="0.1"/>
+ <tile id="531" probability="0.1"/>
+ <tile id="536" probability="0.1"/>
+ <tile id="640">
+  <objectgroup draworder="index" id="2">
+   <object id="2" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
  <tile id="855">
   <objectgroup draworder="index" id="2">
    <object id="1" x="0" y="0" width="16" height="16"/>
@@ -68,6 +148,56 @@
    <object id="1" x="0" y="16">
     <polygon points="0,0 0,-16 16,-16 0,0"/>
    </object>
+  </objectgroup>
+ </tile>
+ <tile id="1228">
+  <objectgroup draworder="index" id="3">
+   <object id="2" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="1229">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="1230">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="1285">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="1287">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="1342">
+  <objectgroup draworder="index" id="3">
+   <object id="2" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="1343">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="1344">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="1360">
+  <objectgroup draworder="index" id="3">
+   <object id="4" x="0" y="9" width="16" height="7"/>
+  </objectgroup>
+ </tile>
+ <tile id="1363">
+  <objectgroup draworder="index" id="3">
+   <object id="2" x="0" y="7" width="16" height="9"/>
   </objectgroup>
  </tile>
  <wangsets>

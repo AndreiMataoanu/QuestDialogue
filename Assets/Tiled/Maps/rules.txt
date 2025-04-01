@@ -1,1 +1,2 @@
 ./outsideRules.tmx
+./houseRules.tmx

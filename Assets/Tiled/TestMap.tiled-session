@@ -4,10 +4,10 @@
         "width": 2
     },
     "activeFile": "Maps/Map.tmx",
-    "automapping.whileDrawing": false,
+    "automapping.whileDrawing": true,
     "expandedProjectPaths": [
-        "Tilesets",
         ".",
+        "Tilesets",
         "Maps"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -65,8 +65,8 @@
             "scale": 2,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 533.75,
-                "y": -191.5
+                "x": 314.75,
+                "y": 351.5
             }
         },
         "Maps/Map.tmx#roguelikeSheet_transparent": {
@@ -75,12 +75,20 @@
         "Maps/colored_packed.tsx": {
             "scaleInDock": 1
         },
-        "Maps/outsideRules.tmx": {
-            "scale": 3,
-            "selectedLayer": 4,
+        "Maps/houseRules.tmx": {
+            "scale": 4,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": -90.83333333333334,
-                "y": -95.33333333333331
+                "x": 108.125,
+                "y": 76.25
+            }
+        },
+        "Maps/outsideRules.tmx": {
+            "scale": 4,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": -44.875,
+                "y": 69
             }
         },
         "Tilesets/colored_packed.tsx": {
@@ -88,8 +96,8 @@
             "scaleInEditor": 1
         },
         "Tilesets/roguelikeSheet_transparent.tsx": {
-            "scaleInDock": 1.5,
-            "scaleInEditor": 5.5
+            "scaleInDock": 2,
+            "scaleInEditor": 2
         },
         "colored_packed.tsx": {
             "scaleInDock": 1,
